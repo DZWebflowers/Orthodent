@@ -1,12 +1,12 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@finsweet/Orthodent",
   "version": "0.0.0",
   "description": "Developer starter template for Finsweet projects.",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
+    "name": "DZWebflowers",
     "url": "https://finsweet.com/"
   },
   "repository": {
